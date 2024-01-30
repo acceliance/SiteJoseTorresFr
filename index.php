@@ -137,7 +137,7 @@ include("./templates/head.php");
               <img class="card-img-top" src="images/logos/logo_mazars.jpg">
               <div class="card-body">
                   <div class="row-md-4 mb-5">
-                      <h5>mars 2023 - juin 2023 (temps partiel)</h5>
+                      <h5>mars 2023 - juillet 2023 (temps partiel)</h5>
                       <h6 class="text-info">Reportings reglementaires CSRD</h6>
                       <h4 class="card-title">Architecte Plateforme Data d'Entreprise multi domaines / multi usages</h4>
                       <ul class="list-unstyled mt-3 mb-4">
@@ -154,7 +154,7 @@ include("./templates/head.php");
               </div>
               <div class="card-footer">
                   <h5 class="border rounded text-center">Environnement</h5>
-                  <p>Modelio, Datavault Builder, Azure Synapse, Power BI</p>
+                  <p>Modelio, Rebooted UML, Datavault Builder, Azure Synapse, Power BI</p>
               </div>
           </div>
         </div>
